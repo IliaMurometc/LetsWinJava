@@ -1,0 +1,1 @@
+java -jar ..\contract-rest-client\target\contract-rest-client-0.0.1-SNAPSHOT.jar
